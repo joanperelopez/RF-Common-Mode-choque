@@ -17,11 +17,13 @@ The common-mode attenuation remains below -30 dBm. (In non-logarithmic terms, th
 The insertion loss is -0.1 dBm.
 
 ![WhatsApp Image 2025-04-26 at 18 15 14](https://github.com/user-attachments/assets/31ee87fd-a1da-46c6-906e-40b2d70c38dc)
+The completed choke.
 
 ![WhatsApp Image 2025-04-26 at 18 15 16-2](https://github.com/user-attachments/assets/322e892b-a9f7-4a95-86c3-82a94b3bfd0f)
+Installation of a bracket to allow it to be mounted on the antenna mast.
 
 ![WhatsApp Image 2025-04-26 at 18 15 14-2](https://github.com/user-attachments/assets/3abaa1cc-1801-45d9-bd76-e37545bd9f1b)
-
+Only three cable ties are needed for securing it.
 
 
 
