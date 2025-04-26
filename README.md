@@ -31,7 +31,8 @@ The insertion loss is -0.1 dBm.
 The completed choke with the placement of the informational label.
 
 ![WhatsApp Image 2025-04-26 at 18 15 16-2](https://github.com/user-attachments/assets/322e892b-a9f7-4a95-86c3-82a94b3bfd0f)
-Installation of a bracket to allow it to be mounted on the antenna mast. You can download it from the MECHANICAL folder.
+Installation of a bracket to allow it to be mounted on the antenna mast. It is attached to the box using a two-component adhesive. 
+You can download it from the MECHANICAL folder.
 
 ![WhatsApp Image 2025-04-26 at 18 15 14-2](https://github.com/user-attachments/assets/3abaa1cc-1801-45d9-bd76-e37545bd9f1b)
 Only three cable ties are needed for securing it.
