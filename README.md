@@ -35,7 +35,7 @@ Installation of a bracket to allow it to be mounted on the antenna mast. It is a
 You can download it from the MECHANICAL folder.
 
 ![WhatsApp Image 2025-04-26 at 18 15 14-2](https://github.com/user-attachments/assets/3abaa1cc-1801-45d9-bd76-e37545bd9f1b)
-Only three cable ties are needed for securing it.
+Only three cable ties are needed for securing it to the antenna mast.
 
 
 
