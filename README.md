@@ -1,5 +1,6 @@
 # RF Common-Mode choque for outdoor use
 
+This is the construction project of a common-mode filter designed to be installed on the mast, as close as possible to the antenna. It is housed inside an IP55-rated protective box with SO-239 connectors.
 ![WhatsApp Image 2025-04-26 at 18 15 16](https://github.com/user-attachments/assets/b7471fad-9f28-4a6c-99a5-3d7bccb18827)
 Common-mode choke. 10 turns of 2x1mm bifilar wire on each side of a 240-43 ferrite, as shown in the photograph.
 
