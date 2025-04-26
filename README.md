@@ -1,8 +1,11 @@
 # RF Common-Mode choque for outdoor use
 
 ![WhatsApp Image 2025-04-26 at 18 15 16](https://github.com/user-attachments/assets/b7471fad-9f28-4a6c-99a5-3d7bccb18827)
+Common-mode choke. 10 turns of 2x1mm bifilar wire on each side of a 240-43 ferrite, as shown in the photograph.
+
 
 ![WhatsApp Image 2025-04-26 at 18 15 17-2](https://github.com/user-attachments/assets/3c5231e0-0341-447c-8395-f91aa9ba0910)
+Installation inside a weatherproof plastic box with IP55 protection. The connectors are SO-239, 50 Ohm.
 
 ![WhatsApp Image 2025-04-26 at 18 15 15-2](https://github.com/user-attachments/assets/4981f29b-f628-434a-beea-0f822587f984)
 
