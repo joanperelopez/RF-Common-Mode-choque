@@ -6,9 +6,11 @@ Common-mode choke. 10 turns of 2x1mm bifilar wire on each side of a 240-43 ferri
 
 ![WhatsApp Image 2025-04-26 at 18 15 17-2](https://github.com/user-attachments/assets/3c5231e0-0341-447c-8395-f91aa9ba0910)
 Installation inside a weatherproof plastic box with IP55 protection. The connectors are SO-239, 50 Ohm.
+Between the plastic box and the connectors, I applied white silicone.
 
 The red wires at each end are soldered together to the center terminal of the corresponding SO-239 connector. The black wires at each end are also soldered together to the shell of the SO-239 connector.
 Once all the connections were soldered, I applied a generous amount of white silicone to prevent moisture from reaching the connections.
+I added rubber washers to the connector screws to prevent water from entering.
 
 ![WhatsApp Image 2025-04-26 at 18 15 15-2](https://github.com/user-attachments/assets/4981f29b-f628-434a-beea-0f822587f984)
 The impedance is correctly maintained at 50 Ohms in the range of 1.8 MHz to 52 MHz.
