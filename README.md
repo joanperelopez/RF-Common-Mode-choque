@@ -14,6 +14,7 @@ The impedance is correctly maintained at 50 Ohms in the range of 1.8 MHz to 52 M
 The common-mode attenuation remains below -30 dBm. (In non-logarithmic terms, the attenuation is 100 times).
 
 ![WhatsApp Image 2025-04-26 at 18 15 17](https://github.com/user-attachments/assets/89f87d8c-eddd-43b6-bde0-fca72dba11cf)
+The insertion loss is -0.1 dBm.
 
 ![WhatsApp Image 2025-04-26 at 18 15 14](https://github.com/user-attachments/assets/31ee87fd-a1da-46c6-906e-40b2d70c38dc)
 
