@@ -15,7 +15,7 @@ I added rubber washers to the connector screws to prevent water from entering.
 
 Secure the ferrite to the box using hot glue.
 
-## Let’s see how it performs with the NanoVNA
+### Let’s see how it performs with the NanoVNA
 
 ![WhatsApp Image 2025-04-26 at 18 15 15-2](https://github.com/user-attachments/assets/4981f29b-f628-434a-beea-0f822587f984)
 The impedance is correctly maintained at 50 Ohms in the range of 1.8 MHz to 52 MHz.
@@ -26,6 +26,7 @@ The common-mode attenuation remains below -30 dBm. (In non-logarithmic terms, th
 ![WhatsApp Image 2025-04-26 at 18 15 17](https://github.com/user-attachments/assets/89f87d8c-eddd-43b6-bde0-fca72dba11cf)
 The insertion loss is -0.1 dBm.
 
+### We make the final touches
 ![WhatsApp Image 2025-04-26 at 18 15 14](https://github.com/user-attachments/assets/31ee87fd-a1da-46c6-906e-40b2d70c38dc)
 The completed choke with the placement of the informational label.
 
