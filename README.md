@@ -39,7 +39,7 @@ Only three cable ties are needed for securing it to the antenna mast.
 
 
 ![WhatsApp Image 2026-03-30 at 12 33 22](https://github.com/user-attachments/assets/897e6d1d-5c3b-4834-8896-6fe7eab98206)
-
+I've made another version of the RF choke, as I was experiencing some RF in the radio room. It consists of 14 turns of RG58 coaxial cable, as shown in the photo.
 
 ![WhatsApp Image 2026-03-30 at 12 33 22 (1)](https://github.com/user-attachments/assets/d2e743b1-79a1-4c96-860e-bcb4f11de9af)
 
