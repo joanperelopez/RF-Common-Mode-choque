@@ -39,10 +39,10 @@ Only three cable ties are needed for securing it to the antenna mast.
 
 
 ![WhatsApp Image 2026-03-30 at 12 33 22](https://github.com/user-attachments/assets/897e6d1d-5c3b-4834-8896-6fe7eab98206)
-I've made another version of the RF choke, as I was experiencing some RF in the radio room. It consists of 14 turns of RG58 coaxial cable, as shown in the photo.
+I've made another version of the RF choke, as I was experiencing some RF in the radio room. It consists of 14 turns of RG58 coaxial cable, as shown in the photo. Made with a toroidal core 240-31.
 
 ![WhatsApp Image 2026-03-30 at 12 33 22 (1)](https://github.com/user-attachments/assets/d2e743b1-79a1-4c96-860e-bcb4f11de9af)
-
+The impedance remains very stable: 49,9 Ohm at 100Khz. (ROE 1.0)  49,5 Ohm at 52 Mhz. (ROE 1.01)  47,6 Ohm at 100Mhz. (ROE 1.07)
 
 ![WhatsApp Image 2026-03-30 at 12 33 23](https://github.com/user-attachments/assets/f19342ed-f909-4822-af58-a819e1c1eb59)
 It doesn't have much common-mode attenuation, but it's sufficient to eliminate the residual RF.
