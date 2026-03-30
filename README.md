@@ -51,3 +51,6 @@ ATTENUATION:
 -28 dB at 14Mhz.
 -24 dB at 21Mhz.
 -21 dB at 28Mhz.
+
+![WhatsApp Image 2026-03-30 at 12 51 59](https://github.com/user-attachments/assets/cceade9a-ef97-45bd-b76a-2de6c49852c2)
+Easy installed in the antenna switch
