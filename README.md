@@ -37,7 +37,7 @@ You can download it from the MECHANICAL folder.
 ![WhatsApp Image 2025-04-26 at 18 15 14-2](https://github.com/user-attachments/assets/3abaa1cc-1801-45d9-bd76-e37545bd9f1b)
 Only three cable ties are needed for securing it to the antenna mast.
 
-
+### RF choque version two
 ![WhatsApp Image 2026-03-30 at 12 33 22](https://github.com/user-attachments/assets/897e6d1d-5c3b-4834-8896-6fe7eab98206)
 I've made another version of the RF choke, as I was experiencing some RF in the radio room. It consists of 14 turns of RG58 coaxial cable, as shown in the photo. Made with a toroidal core 240-31.
 
