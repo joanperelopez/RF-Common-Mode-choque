@@ -45,4 +45,9 @@ I've made another version of the RF choke, as I was experiencing some RF in the 
 
 
 ![WhatsApp Image 2026-03-30 at 12 33 23](https://github.com/user-attachments/assets/f19342ed-f909-4822-af58-a819e1c1eb59)
-
+It doesn't have much common-mode attenuation, but it's sufficient to eliminate the residual RF.
+ATTENUATION:
+-36 dB at 7Mhz.
+-28 dB at 14Mhz.
+-24 dB at 21Mhz.
+-21 dB at 28Mhz.
